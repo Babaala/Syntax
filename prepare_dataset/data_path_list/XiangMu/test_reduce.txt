@@ -1,0 +1,18 @@
+E:\Datasets\XiangMu\images/1_I0000001_10.png E:/Datasets/XiangMu/masks/100.png E:/Datasets/XiangMu/fov/100.png
+E:\Datasets\XiangMu\images/1_I0000001_11.png E:/Datasets/XiangMu/masks/100.png E:/Datasets/XiangMu/fov/100.png
+E:\Datasets\XiangMu\images/1_I0000001_12.png E:/Datasets/XiangMu/masks/100.png E:/Datasets/XiangMu/fov/100.png
+E:\Datasets\XiangMu\images/1_I0000002_14.png E:/Datasets/XiangMu/masks/100.png E:/Datasets/XiangMu/fov/100.png
+E:\Datasets\XiangMu\images/1_I0000002_15.png E:/Datasets/XiangMu/masks/100.png E:/Datasets/XiangMu/fov/100.png
+E:\Datasets\XiangMu\images/1_I0000002_16.png E:/Datasets/XiangMu/masks/100.png E:/Datasets/XiangMu/fov/100.png
+E:\Datasets\XiangMu\images/1_I0000002_17.png E:/Datasets/XiangMu/masks/100.png E:/Datasets/XiangMu/fov/100.png
+E:\Datasets\XiangMu\images/1_I0000003_15.png E:/Datasets/XiangMu/masks/100.png E:/Datasets/XiangMu/fov/100.png
+E:\Datasets\XiangMu\images/1_I0000003_16.png E:/Datasets/XiangMu/masks/100.png E:/Datasets/XiangMu/fov/100.png
+E:\Datasets\XiangMu\images/1_I0000004_16.png E:/Datasets/XiangMu/masks/100.png E:/Datasets/XiangMu/fov/100.png
+E:\Datasets\XiangMu\images/1_I0000004_17.png E:/Datasets/XiangMu/masks/100.png E:/Datasets/XiangMu/fov/100.png
+E:\Datasets\XiangMu\images/1_I0000005_19.png E:/Datasets/XiangMu/masks/100.png E:/Datasets/XiangMu/fov/100.png
+E:\Datasets\XiangMu\images/1_I0000005_20.png E:/Datasets/XiangMu/masks/100.png E:/Datasets/XiangMu/fov/100.png
+E:\Datasets\XiangMu\images/1_I0000005_21.png E:/Datasets/XiangMu/masks/100.png E:/Datasets/XiangMu/fov/100.png
+E:\Datasets\XiangMu\images/1_I0000006_22.png E:/Datasets/XiangMu/masks/100.png E:/Datasets/XiangMu/fov/100.png
+E:\Datasets\XiangMu\images/1_I0000006_23.png E:/Datasets/XiangMu/masks/100.png E:/Datasets/XiangMu/fov/100.png
+E:\Datasets\XiangMu\images/1_I0000006_24.png E:/Datasets/XiangMu/masks/100.png E:/Datasets/XiangMu/fov/100.png
+
